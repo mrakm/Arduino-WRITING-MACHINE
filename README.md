@@ -16,7 +16,7 @@ OPERATIONAL DEFINITION:- The main heart of this writing machine is Arduino UNO R
 
 ## CIRCUIT DIAGRAM:-
 
-![Image of Diagram](https://doc-10-14-docs.googleusercontent.com/docs/securesc/kj2mj8a7crk5755rsmfi2074gu5o1l5q/44gbg6shtbu8js5eieal9278at3ru9if/1620748650000/14261088210164367910/14261088210164367910/1XeojQ44z1KvCXA17MHBs-U3IxeleLJ20?authuser=0)
+![Image of Diagram](https://i.ibb.co/423tFfn/audino.png)
 
 ## APPLICATION:-
 In school and industries to sign on document.
